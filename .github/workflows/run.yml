@@ -1,0 +1,35 @@
+name: Scrape data
+on:
+  schedule:
+  - cron: '0 * * * *'
+  workflow_dispatch:
+  
+jobs:
+  scrape-bills:
+    name: Scrape bills
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout branch
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+        
+    - name: Install requirements
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r scrapers/requirements.txt
+    
+    - name: Run scraper
+      working-directory: ./scraper
+      run: python3 main.py
+    
+    - name: Commit data
+      run: |
+        rsync -avhz scraper/bills.json bills.json
+        git config user.name "Quatalog Says Trans Rights" && git config user.email "github_actions@quatalog.com"
+        git add bills.json
+        git commit -m "$(date -u)"
+        git push
