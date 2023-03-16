@@ -35,5 +35,5 @@ jobs:
         rsync -avhz scraper/bills.json bills.json
         git config user.name "Quatalog Says Trans Rights" && git config user.email "github_actions@quatalog.com"
         git add bills.json
-        git commit -m "$(date -u)"
+        git commit --allow-empty -m "$(date -u)"
         git push
