@@ -96,13 +96,13 @@
     },
     "AZ SB1028": {
       "description": "",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Adult cabaret performances; prohibited locations",
       "url": "/bills/2023/AZ/SB1028"
     },
     "AZ SB1030": {
       "description": "",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Sexually explicit performances; regulation",
       "url": "/bills/2023/AZ/SB1030"
     },
@@ -1879,6 +1879,12 @@
       "status": "Introduced",
       "title": "In limitation of time, providing for gender affirmation treatments.",
       "url": "/bills/2023/PA/HB138"
+    },
+    "PA HB319": {
+      "description": "An Act providing for classroom instruction on sexual orientation and gender identity and for parental notification of student health care services; and establishing cause of action for violation.",
+      "status": "Introduced",
+      "title": "Providing for classroom instruction on sexual orientation and gender identity and for parental notification of student health care services; and establishing cause of action for violation.",
+      "url": "/bills/2023/PA/HB319"
     }
   },
   "RI": {
@@ -1997,6 +2003,24 @@
       "status": "Introduced",
       "title": "SC Integrity in Education Act",
       "url": "/bills/2023/SC/S0424"
+    },
+    "SC S0623": {
+      "description": "Amend The South Carolina Code Of Laws By Amending Section 44-63-100, Relating To The Process Through Which A Person May Make Changes To His Birth Certificate, So As To Provide That Gender Changes To A Person's Birth Certificate May Only Be To Change From Male To Female Or From Female To Male And To Provide For Affidavits That Must Accompany A Petition To Make A Gender Change To A Person's Birth Certificate.",
+      "status": "Introduced",
+      "title": "Vital Statistics - Changes to Birth Certificates",
+      "url": "/bills/2023/SC/S0623"
+    },
+    "SC S0624": {
+      "description": "An Amendment To Article Xvii Of The Constitution Of South Carolina, By Adding Section 16 To Provide That A Person's Biological Sex At Birth Constitutes That Person's Gender For The Purposes Of The State Constitution And Laws.",
+      "status": "Introduced",
+      "title": "Biological Sex Constitutional Amendment",
+      "url": "/bills/2023/SC/S0624"
+    },
+    "SC S0627": {
+      "description": "Amend The South Carolina Code Of Laws By Adding Section 40-47-300 So As To Define Gender, Sex, And Other Terms; By Adding Section 40-47-310 So As To Prohibit The Provision Of Gender Transition Procedures To A Person Under Eighteen Years Of Age; By Adding Section 40-47-320 So As To Provide Exceptions; By Adding Section 40-47-330 So As To Prohibit The Use Of Public Funds For Gender Transition Procedures; By Adding Section 40-47-340 So As To Provide Penalties; And By Adding Section 59-32-36 So As To Prohibit School Staff And Officials From Withholding Knowledge Of A Minor's Perception Of Their Gender From The Minor's Parents.",
+      "status": "Introduced",
+      "title": "Gender Identity",
+      "url": "/bills/2023/SC/S0627"
     }
   },
   "SD": {
@@ -2268,6 +2292,12 @@
       "title": "Relating to the detainment and housing of juveniles and inmates based on biological sex.",
       "url": "/bills/2023/TX/HB3147"
     },
+    "TX HB3164": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Relating to the prohibition of diversity, equity, and inclusion offices and employees at public institutions of higher education.",
+      "url": "/bills/2023/TX/HB3164"
+    },
     "TX HB319": {
       "description": "",
       "status": "Introduced",
@@ -2351,6 +2381,12 @@
       "status": "Introduced",
       "title": "Relating to a parent's right to information concerning the gender identity of the parent's child.",
       "url": "/bills/2023/TX/HB4961"
+    },
+    "TX HB5235": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Relating to regulations and policies for entering or using a bathroom or changing facility in a public school; authorizing a civil penalty, authorizing a private civil right of action.",
+      "url": "/bills/2023/TX/HB5235"
     },
     "TX HB5236": {
       "description": "",
