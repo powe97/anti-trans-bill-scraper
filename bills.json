@@ -239,7 +239,7 @@
       "url": "/bills/2023/FL/S0254"
     },
     "FL S0266": {
-      "description": "Revising the mission of each state university; requiring each state university to annually report certain research expenditures of a specified amount; authorizing each state university board of trustees to review any faculty member's tenure status; authorizing the Board of Trustees of the University of Florida to use funds to establish and fund the Hamilton College for Classical and Civic Education; revising how general education core courses are established; removing a prohibition against a public postsecondary institution from being accredited by the same accrediting body for multiple consecutive accreditation cycles, etc.",
+      "description": "Revising requirements in the Board of Governors duties relating to the mission of each state university; requiring each state university to annually report certain research expenditures of a specified amount; authorizing the Board of Trustees of the University of Florida to use funds to establish and fund the Hamilton College for Classical and Civic Education; revising how general education core courses are established; specifying a one-time limit on the requirement to change accrediting agencies, etc.",
       "status": "Introduced",
       "title": "Higher Education",
       "url": "/bills/2023/FL/S0266"
@@ -632,7 +632,7 @@
   "KS": {
     "KS HB2238": {
       "description": "",
-      "status": "Passed - pending Governor signature",
+      "status": "Vetoed",
       "title": "Creating the fairness in women's sports act to require that female student athletic teams only include members who are biologically female.",
       "url": "/bills/2023/KS/HB2238"
     },
@@ -766,14 +766,14 @@
     },
     "KY SB145": {
       "description": "Amend KRS 156.070 to remove the statutory eligibility restriction for nonresident student participation in interscholastic athletics; retain eligibility authority with the agency designated to manage interscholastic athletics.",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "AN ACT relating to interscholastic athletics.",
       "url": "/bills/2023/KY/SB145"
     },
     "KY SB150": {
       "description": "Create a new section of KRS Chapter 158 to establish definitions; require specific parental notifications from public schools; require school districts to adopt specific procedures related to parental rights; limit authority of the Kentucky Board of Education and Kentucky Department of Education in relation to parental rights and a student's use of pronouns; prohibit district or school policies with the intent of keeping student information confidential for parents; prohibit a school district from requiring school personnel or pupils to use pronouns for students that do not conform to that student's biological sex; provide school districts and district personnel authority to seek emergency medical services for a student; provide conditions for student confidentiality; amend KRS 158.1415 to establish requirements for any public school's course, curriculum, or program on the subject of human sexuality.",
-      "status": "Engrossed",
-      "title": "AN ACT relating to rights in public schools.",
+      "status": "Passed - pending Governor signature",
+      "title": "AN ACT relating to children.",
       "url": "/bills/2023/KY/SB150"
     }
   },
