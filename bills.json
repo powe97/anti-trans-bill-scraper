@@ -137,6 +137,14 @@
       "url": "/bills/2023/AZ/SB1702"
     }
   },
+  "CA": {
+    "CA AB1314": {
+      "description": "An act to amend Section 51101 of the Education Code, relating to pupils.",
+      "status": "Introduced",
+      "title": "Gender identity: parental notification.",
+      "url": "/bills/2023/CA/AB1314"
+    }
+  },
   "CO": {
     "CO HB1092": {
       "description": "Concerning limitations on the use of state money, and, in connection therewith, requiring the public employees' retirement association to make investments solely on financial factors, prohibiting certain government contracts with entities that engage in economic boycotts, and requiring the state treasurer to invest money eligible for investment solely on financial factors.",
@@ -492,6 +500,12 @@
       "title": "Amends existing law to provide that a public works contractor shall not be required to provide access to a multiple-occupancy restroom, multiple-occupancy shower facility, or multiple-occupancy changing room on any basis other than sex.",
       "url": "/bills/2023/ID/S1016"
     },
+    "ID S1071": {
+      "description": "EDUCATION -- Amends existing law to prohibit instruction on human sexuality, sexual orientation, or gender identity prior to fifth grade.",
+      "status": "Engrossed",
+      "title": "Amends existing law to prohibit instruction on human sexuality, sexual orientation, or gender identity prior to fifth grade.",
+      "url": "/bills/2023/ID/S1071"
+    },
     "ID S1100": {
       "description": "EDUCATION -- Adds to existing law to establish privacy and safety standards in public schools.",
       "status": "Engrossed",
@@ -690,6 +704,12 @@
       "title": "Enacting the Kansas protection of pensions and businesses against ideological interference act, relating to ideological boycotts involving environmental, social or governance standards, requiring KPERS to divest from and prohibiting state contracts or the deposit of state moneys with entities engaged in such boycotts as determined by the state treasurer and prohibiting discriminatory practices in the financial services industry based on such boycotts.",
       "url": "/bills/2023/KS/SB224"
     },
+    "KS SB228": {
+      "description": "",
+      "status": "Engrossed",
+      "title": "Modernizing statutes concerning county jails, removing the requirement that every county shall have a jail, modifying procedures used when district courts commit prisoners to jail in another county and when counties contract with city jails to keep prisoners and requiring a medical examination before certain United States prisoners or city prisoners are taken into custody of a county jail.",
+      "url": "/bills/2023/KS/SB228"
+    },
     "KS SB233": {
       "description": "",
       "status": "Engrossed",
@@ -783,6 +803,14 @@
       "status": "Introduced",
       "title": "Provides relative to the use of certain names and pronouns for students",
       "url": "/bills/2023/LA/HB81"
+    }
+  },
+  "MA": {
+    "MA H458": {
+      "description": "Relative to parental rights in education. Education.",
+      "status": "Introduced",
+      "title": "Relative to parental rights in education",
+      "url": "/bills/2023/MA/H458"
     }
   },
   "MD": {
@@ -1302,6 +1330,12 @@
       "title": "Provide that use of a name and sex by a student is not discrimination",
       "url": "/bills/2023/MT/HB361"
     },
+    "MT HB837": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Require curriculum transparency in K-12 education",
+      "url": "/bills/2023/MT/HB837"
+    },
     "MT SB337": {
       "description": "",
       "status": "Introduced",
@@ -1816,6 +1850,12 @@
       "title": "Schools; creating the School Establishment Clause Act (SECA); prohibiting creation, enforcement, or endorsement of certain policies. Effective date. Emergency.",
       "url": "/bills/2023/OK/SB937"
     },
+    "OK SB943": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Students; creating the Oklahoma Parent Empowerment Act for Kids; providing eligibility for OK PEAK accounts. Effective date. Emergency.",
+      "url": "/bills/2023/OK/SB943"
+    },
     "OK SB973": {
       "description": "",
       "status": "Introduced",
@@ -1879,6 +1919,12 @@
       "status": "Introduced",
       "title": "In limitation of time, providing for gender affirmation treatments.",
       "url": "/bills/2023/PA/HB138"
+    },
+    "PA HB216": {
+      "description": "An Act providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harms suffered by designation.",
+      "status": "Introduced",
+      "title": "Providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harms suffered by designation.",
+      "url": "/bills/2023/PA/HB216"
     },
     "PA HB319": {
       "description": "An Act providing for classroom instruction on sexual orientation and gender identity and for parental notification of student health care services; and establishing cause of action for violation.",
@@ -2004,6 +2050,12 @@
       "title": "SC Integrity in Education Act",
       "url": "/bills/2023/SC/S0424"
     },
+    "SC S0585": {
+      "description": "Amend The South Carolina Code Of Laws By Adding Section 16-15-450 So As To Prohibit Adult Cabaret Performances On Public Property And In Places Where Such A Performance Can Be Viewed By Minors, And To Define Necessary Terms.",
+      "status": "Introduced",
+      "title": "Adult Cabaret Performances",
+      "url": "/bills/2023/SC/S0585"
+    },
     "SC S0623": {
       "description": "Amend The South Carolina Code Of Laws By Amending Section 44-63-100, Relating To The Process Through Which A Person May Make Changes To His Birth Certificate, So As To Provide That Gender Changes To A Person's Birth Certificate May Only Be To Change From Male To Female Or From Female To Male And To Provide For Affidavits That Must Accompany A Petition To Make A Gender Change To A Person's Birth Certificate.",
       "status": "Introduced",
@@ -2057,13 +2109,13 @@
   },
   "TN": {
     "TN HB0001": {
-      "description": "As introduced, prohibits a healthcare provider from performing on a minor or administering to a minor a medical procedure if the performance or administration of the procedure is for the purpose of enabling a minor to identify with, or live as, a purported identity inconsistent with the minor\u2019s sex. - Amends TCA Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71.",
+      "description": "As enacted, prohibits a healthcare provider from performing on a minor or administering to a minor a medical procedure if the performance or administration of the procedure is for the purpose of enabling a minor to identify with, or live as, a purported identity inconsistent with the minor\u2019s sex. - Amends TCA Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71.",
       "status": "Introduced",
       "title": "AN ACT to amend Tennessee Code Annotated, Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71, relative to medical care of the young.",
       "url": "/bills/2023/TN/HB0001"
     },
     "TN HB0009": {
-      "description": "As introduced, creates an offense for a person who engages in an adult cabaret performance on public property or in a location where the adult cabaret performance could be viewed by a person who is not an adult. - Amends TCA Title 7, Chapter 51, Part 14.",
+      "description": "As enacted, creates an offense for a person who engages in an adult cabaret performance on public property or in a location where the adult cabaret performance could be viewed by a person who is not an adult. - Amends TCA Title 7, Chapter 51, Part 14.",
       "status": "Introduced",
       "title": "AN ACT to amend Tennessee Code Annotated, Title 7, Chapter 51, Part 14, relative to adult-oriented performances.",
       "url": "/bills/2023/TN/HB0009"
@@ -2129,13 +2181,13 @@
       "url": "/bills/2023/TN/HB1447"
     },
     "TN SB0001": {
-      "description": "As introduced, prohibits a healthcare provider from performing on a minor or administering to a minor a medical procedure if the performance or administration of the procedure is for the purpose of enabling a minor to identify with, or live as, a purported identity inconsistent with the minor\u2019s sex. - Amends TCA Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71.",
+      "description": "As enacted, prohibits a healthcare provider from performing on a minor or administering to a minor a medical procedure if the performance or administration of the procedure is for the purpose of enabling a minor to identify with, or live as, a purported identity inconsistent with the minor\u2019s sex. - Amends TCA Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71.",
       "status": "Passed",
       "title": "AN ACT to amend Tennessee Code Annotated, Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71, relative to medical care of the young.",
       "url": "/bills/2023/TN/SB0001"
     },
     "TN SB0003": {
-      "description": "As introduced, creates an offense for a person who engages in an adult cabaret performance on public property or in a location where the adult cabaret performance could be viewed by a person who is not an adult. - Amends TCA Title 7, Chapter 51, Part 14.",
+      "description": "As enacted, creates an offense for a person who engages in an adult cabaret performance on public property or in a location where the adult cabaret performance could be viewed by a person who is not an adult. - Amends TCA Title 7, Chapter 51, Part 14.",
       "status": "Passed",
       "title": "AN ACT to amend Tennessee Code Annotated, Title 7, Chapter 51, Part 14, relative to adult-oriented performances.",
       "url": "/bills/2023/TN/SB0003"
@@ -2484,6 +2536,12 @@
       "title": "Relating to prohibiting the conservatorship of a child by a parent who removes the child from this state for certain purposes relating to gender reassignment.",
       "url": "/bills/2023/TX/SB1690"
     },
+    "TX SB2281": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Relating to prohibiting certain adult cabaret performances; creating a criminal offense.",
+      "url": "/bills/2023/TX/SB2281"
+    },
     "TX SB249": {
       "description": "",
       "status": "Introduced",
@@ -2520,6 +2578,12 @@
       "title": "Relating to participation in athletic activities based on biological sex; providing a civil right to action for K-12 athletes and college athletes.",
       "url": "/bills/2023/TX/SB649"
     },
+    "TX SB8": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Relating to public education, including parental rights and public school responsibilities regarding instructional materials and the establishment of an education savings account program.",
+      "url": "/bills/2023/TX/SB8"
+    },
     "TX SCR3": {
       "description": "",
       "status": "Introduced",
@@ -2545,6 +2609,18 @@
       "status": "Failed",
       "title": "Event Permit Notification Amendments",
       "url": "/bills/2023/UT/HB0329"
+    },
+    "UT HB0463": {
+      "description": "",
+      "status": "Failed",
+      "title": "High School Sports Amendments",
+      "url": "/bills/2023/UT/HB0463"
+    },
+    "UT HB0464": {
+      "description": "",
+      "status": "Failed",
+      "title": "School Materials Amendments",
+      "url": "/bills/2023/UT/HB0464"
     },
     "UT SB0016": {
       "description": "",
