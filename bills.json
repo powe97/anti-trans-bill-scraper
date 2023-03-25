@@ -22,7 +22,7 @@
   "AR": {
     "AR HB1156": {
       "description": "",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "Concerning A Public School District Or Open-enrollment Public Charter School Policy Relating To A Public School Student's Sex.",
       "url": "/bills/2023/AR/HB1156"
     },
@@ -205,7 +205,7 @@
       "url": "/bills/2023/FL/H0999"
     },
     "FL H1069": {
-      "description": "Defines \"sex\" for Florida Early Learning-20 Education Code; revises provisions relating to materials for specified instruction relating to reproductive health; provides additional requirements for instruction regarding human sexuality; provides district school boards are responsible for materials used in classroom libraries; revises provisions relating to objections of certain materials & process related to such objections; revises school principal, school district & district school board duties & responsibilities relating to certain materials & processes.",
+      "description": "Defines \"sex\" for Florida Early Learning-20 Education Code; provides requirements relating to titles & pronouns; revises provisions relating to instruction & materials for specified instruction relating to reproductive health; provides additional requirements for instruction regarding human sexuality; provides district school boards are responsible for materials used in classroom libraries; revises provisions relating to objections of certain materials & process related to such objections; revises school principal, school district & district school board duties & responsibilities relating to certain materials & processes.",
       "status": "Introduced",
       "title": "Education",
       "url": "/bills/2023/FL/H1069"
@@ -229,7 +229,7 @@
       "url": "/bills/2023/FL/H1319"
     },
     "FL H1421": {
-      "description": "Prohibits persons & entities from expending funds for reimbursement for specified clinical interventions; prohibits person's biological sex from being changed on birth certificate; prohibits gender clinical interventions for minors; authorizes certain persons to refuse to participate in gender clinical interventions; prohibits health insurance policy & health maintenance contract from providing coverage for gender clinical interventions.",
+      "description": "Authorizes court of state to enter, modify, or stay child custody determination under specified circumstances; rohibits persons & entities from expending funds for reimbursement for specified clinical interventions; prohibits person's biological sex from being changed on birth certificate; prohibits gender clinical interventions for minors; authorizes certain persons to refuse to participate in gender clinical interventions; prohibits health insurance policy & health maintenance contract from providing coverage for gender clinical interventions; provides physician liability & authorizes award of specified damages, fees, & costs.",
       "status": "Introduced",
       "title": "Gender Clinical Interventions",
       "url": "/bills/2023/FL/H1421"
@@ -286,7 +286,7 @@
     },
     "GA SB140": {
       "description": "A BILL to be entitled an Act to amend Article 1 of Chapter 7 of Title 31 of the Official Code of Georgia Annotated, relating to regulation of hospitals and related institutions, so as to prohibit certain surgical procedures for the treatment of gender dysphoria in minors from being performed in hospitals and other licensed healthcare facilities; to provide for exceptions; to provide for violations; to amend Article 1 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to the Georgia Composite Medical Board, so as to prohibit certain surgical procedures for the treatment of gender dysphoria in minors; to provide for exceptions; to provide for violations; to provide for legislative findings; to provide for related matters; to repeal conflicting laws; and for other purposes.",
-      "status": "Engrossed",
+      "status": "Passed",
       "title": "Hospitals; the treatment of gender dysphoria in minors performed in hospitals and other licensed healthcare facilities; prohibit certain surgical procedures",
       "url": "/bills/2023/GA/SB140"
     },
@@ -452,20 +452,20 @@
     },
     "IA SF482": {
       "description": "",
-      "status": "Passed - pending Governor signature",
-      "title": "A bill for an act prohibiting persons from entering single and multiple occupancy restrooms or changing areas and other facilities in elementary and secondary schools that do not correspond with the person's biological sex and including effective date provisions. (Formerly SF 335.)",
+      "status": "Passed",
+      "title": "A bill for an act prohibiting persons from entering single and multiple occupancy restrooms or changing areas and other facilities in elementary and secondary schools that do not correspond with the person's biological sex and including effective date provisions. (Formerly SF 335.) Effective date: 03/22/2023.",
       "url": "/bills/2023/IA/SF482"
     },
     "IA SF496": {
       "description": "",
-      "status": "Introduced",
-      "title": "A bill for an act relating to children and students, including establishing a parent's or guardian's right to make decisions affecting the parent's or guardian's child, and modifying provisions related to student health screenings and the curriculum in school districts, accredited nonpublic schools, and charter schools, other duties of the state board of education and school districts, competent private instruction, and special education.(Formerly SSB 1145.)",
+      "status": "Engrossed",
+      "title": "A bill for an act relating to children and students, including establishing a parent's or guardian's right to make decisions affecting the parent's or guardian's child, prohibiting instruction related to gender identity and sexual orientation in school districts, charter schools, and innovation zone schools in kindergarten through grade six, and modifying provisions related to student health screenings, school district library programs, the educational program provided to students enrolled in school districts, accredited nonpublic schools, and charter schools, other duties of school districts and the governing boards of charter schools and innovation zone schools, competent private instruction, and special education. (Formerly SSB 1145.)",
       "url": "/bills/2023/IA/SF496"
     },
     "IA SF538": {
       "description": "",
-      "status": "Engrossed",
-      "title": "A bill for an act relating to prohibited activities regarding gender transition procedures relative to minors, and including effective date and applicability provisions. (Formerly SSB 1197.)",
+      "status": "Passed",
+      "title": "A bill for an act relating to prohibited activities regarding gender transition procedures relative to minors, and including effective date and applicability provisions. (Formerly SSB 1197.) Effective date: 03/22/2023. Contingent applicability date.",
       "url": "/bills/2023/IA/SF538"
     },
     "IA SF83": {
@@ -477,9 +477,9 @@
   },
   "ID": {
     "ID H0071": {
-      "description": "CHILD PROTECTION ACT -- Amends existing law to revise provisions regarding the crime of genital mutilation of a child.",
+      "description": "CHILD PROTECTION ACT -- Adds to existing law to establish provisions regarding vulnerable child protection.",
       "status": "Engrossed",
-      "title": "Amends existing law to revise provisions regarding the crime of genital mutilation of a child.",
+      "title": "Adds to existing law to establish provisions regarding vulnerable child protection.",
       "url": "/bills/2023/ID/H0071"
     },
     "ID S1003": {
@@ -502,7 +502,7 @@
     },
     "ID S1100": {
       "description": "EDUCATION -- Adds to existing law to establish privacy and safety standards in public schools.",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "Adds to existing law to establish privacy and safety standards in public schools.",
       "url": "/bills/2023/ID/S1100"
     }
@@ -658,7 +658,7 @@
     },
     "KS HB2436": {
       "description": "",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Enacting the Kansas public investments and contracts protection act concerning environmental, social and governance (ESG) criteria, prohibiting the state and political subdivisions from giving preferential treatment to or discriminating against companies based on such ESG criteria in procuring or letting contracts, requiring KPERS fiduciaries to act solely in the financial interest of the participants and beneficiaries of the system, restricting state agencies from adopting ESG criteria or requiring any person or business to operate in accordance with such criteria and providing for enforcement of such act by the attorney general.",
       "url": "/bills/2023/KS/HB2436"
     },
@@ -780,13 +780,13 @@
     },
     "KY SB145": {
       "description": "Amend KRS 156.070 to remove the statutory eligibility restriction for nonresident student participation in interscholastic athletics; retain eligibility authority with the agency designated to manage interscholastic athletics.",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "AN ACT relating to interscholastic athletics.",
       "url": "/bills/2023/KY/SB145"
     },
     "KY SB150": {
       "description": "Create a new section of KRS Chapter 158 to establish definitions; require specific parental notifications from public schools; require school districts to adopt specific procedures related to parental rights; limit authority of the Kentucky Board of Education and Kentucky Department of Education in relation to parental rights and a student's use of pronouns; prohibit district or school policies with the intent of keeping student information confidential for parents; prohibit a school district from requiring school personnel or pupils to use pronouns for students that do not conform to that student's biological sex; provide school districts and district personnel authority to seek emergency medical services for a student; provide conditions for student confidentiality; amend KRS 158.1415 to establish requirements for any public school's course, curriculum, or program on the subject of human sexuality.",
-      "status": "Passed - pending Governor signature",
+      "status": "Vetoed",
       "title": "AN ACT relating to children.",
       "url": "/bills/2023/KY/SB150"
     }
@@ -1052,7 +1052,7 @@
     },
     "MO SB39": {
       "description": "",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Establishes guidelines for student participation in athletic contests organized by sex",
       "url": "/bills/2023/MO/SB39"
     },
@@ -1100,7 +1100,7 @@
     },
     "MO SB49": {
       "description": "",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Establishes the \"Missouri Save Adolescents from Experimentation (SAFE) Act\" and modifies provisions relating to public funding of certain gender transition procedures",
       "url": "/bills/2023/MO/SB49"
     },
@@ -1371,79 +1371,79 @@
   },
   "ND": {
     "ND HB1139": {
-      "description": "",
+      "description": "A BILL for an Act to amend and reenact sections 23-02.1-01, 23-02.1-13, and 23-02.1-15 of the North Dakota Century Code, relating to required elements of birth records.",
       "status": "Engrossed",
-      "title": "Relating to required elements of birth records.",
+      "title": "Required elements of birth records.",
       "url": "/bills/2023/ND/HB1139"
     },
     "ND HB1205": {
-      "description": "",
+      "description": "A BILL for an Act to create and enact a new section to chapter 12.1-27.1 of the North Dakota Century Code, relating to prohibiting public libraries from maintaining explicit sexual material; to provide for a legislative management report; and to provide for application.",
       "status": "Engrossed",
-      "title": "Relating to prohibiting public libraries from maintaining explicit sexual material; to provide for a legislative management report; and to provide for application.",
+      "title": "Prohibiting public libraries from maintaining explicit sexual material; to provide for a legislative management report; and to provide for application.",
       "url": "/bills/2023/ND/HB1205"
     },
     "ND HB1249": {
-      "description": "",
+      "description": "A BILL for an Act to create and enact chapter 15.1-41 of the North Dakota Century Code, relating to requiring schools to designate their athletic teams and sports for male, female, or coed participation and limitations on use of governmental property for athletic events.",
       "status": "Engrossed",
-      "title": "Relating to requiring schools to designate their athletic teams and sports for male, female, or coed participation and limitations on use of governmental property for athletic events.",
+      "title": "Requiring schools to designate their athletic teams and sports for male, female, or coed participation and limitations on use of governmental property for athletic events.",
       "url": "/bills/2023/ND/HB1249"
     },
     "ND HB1254": {
-      "description": "",
+      "description": "A BILL for an Act to create and enact chapter 12.1-36.1 of the North Dakota Century Code, relating to the prohibition of certain practices against a minor; to provide a penalty; and to declare an emergency.",
       "status": "Engrossed",
-      "title": "Relating to the prohibition of certain practices against a minor; to provide a penalty; and to declare an emergency.",
+      "title": "The prohibition of certain practices against a minor; to provide a penalty; and to declare an emergency.",
       "url": "/bills/2023/ND/HB1254"
     },
     "ND HB1297": {
-      "description": "",
+      "description": "A BILL for an Act to create and enact a new section to chapter 23-02.1 of the North Dakota Century Code, relating to correction or amendment of birth records.",
       "status": "Engrossed",
-      "title": "Relating to correction or amendment of birth records.",
+      "title": "Correction or amendment of birth records.",
       "url": "/bills/2023/ND/HB1297"
     },
     "ND HB1301": {
-      "description": "",
+      "description": "A BILL for an Act to create and enact chapter 23-52 of the North Dakota Century Code, relating to prohibiting medical gender transitioning procedures on a minor; to provide a penalty; and to declare an emergency.",
       "status": "Introduced",
-      "title": "Relating to prohibiting medical gender transitioning procedures on a minor; to provide a penalty; and to declare an emergency.",
+      "title": "Prohibiting medical gender transitioning procedures on a minor; to provide a penalty; and to declare an emergency.",
       "url": "/bills/2023/ND/HB1301"
     },
     "ND HB1332": {
-      "description": "",
+      "description": "A BILL for an Act to create and enact a new section to chapter 43-41 of the North Dakota Century Code, relating to the regulation of social workers.",
       "status": "Introduced",
-      "title": "Relating to the regulation of social workers.",
+      "title": "The regulation of social workers.",
       "url": "/bills/2023/ND/HB1332"
     },
     "ND HB1333": {
-      "description": "Relating to restrictions on adult-oriented performances; to amend and reenact section 12.1-27.1-12 of the North Dakota Century Code, relating to state pre-emption of local laws regulating obscenity; and to provide a penalty.",
+      "description": "A BILL for an Act to create and enact a new section to chapter 12.1-27.1 of the North Dakota Century Code, relating to restrictions on adult-oriented performances; to amend and reenact section 12.1-27.1-12 of the North Dakota Century Code, relating to state pre-emption of local laws regulating obscenity; and to provide a penalty.",
       "status": "Engrossed",
       "title": "State pre-emption of local laws regulating obscenity; and to provide a penalty.",
       "url": "/bills/2023/ND/HB1333"
     },
     "ND HB1473": {
-      "description": "",
+      "description": "A BILL for an Act to create and enact a new section to chapter 12-44.1, a new section to chapter 12-46, a new section to chapter 12-47, a new section to chapter 14-07.1, and a new section to chapter 15-10 of the North Dakota Century Code, relating to the use of restrooms, locker rooms, and shower rooms in a dormitory or living facility controlled by the state board of higher education, a correctional facility, a domestic violence sexual assault organization facility, the North Dakota youth correctional center, and the penitentiary exclusively for males and females.",
       "status": "Engrossed",
-      "title": "Relating to the use of restrooms, locker rooms, and shower rooms in a dormitory or living facility controlled by the state board of higher education, a correctional facility, a domestic violence sexual assault organization facility, the North Dakota youth correctional center, and the penitentiary exclusively for males and females.",
+      "title": "The use of restrooms, locker rooms, and shower rooms in a dormitory or living facility controlled by the state board of higher education, a correctional facility, a domestic violence sexual assault organization facility, the North Dakota youth correctional center, and the penitentiary exclusively for males and females.",
       "url": "/bills/2023/ND/HB1473"
     },
     "ND HB1474": {
-      "description": "Relating to vital statistic collection; and to amend and reenact section 1-01-49 of the North Dakota Century Code, relating to the definition of father, female, male, mother, and sex.",
+      "description": "A BILL for an Act to create and enact a new section to chapter 23-02.1 of the North Dakota Century Code, relating to vital statistic collection; and to amend and reenact section 1-01-49 of the North Dakota Century Code, relating to the definition of father, female, male, mother, and sex.",
       "status": "Engrossed",
       "title": "The definition of father, female, male, mother, and sex.",
       "url": "/bills/2023/ND/HB1474"
     },
     "ND HB1489": {
-      "description": "",
+      "description": "A BILL for an Act to create and enact chapter 15-10.6 of the North Dakota Century Code, relating to requiring institutions of higher education designating athletic teams and sports for male, female, or coed participation.",
       "status": "Engrossed",
-      "title": "Relating to requiring institutions of higher education designating athletic teams and sports for male, female, or coed participation.",
+      "title": "Requiring institutions of higher education designating athletic teams and sports for male, female, or coed participation.",
       "url": "/bills/2023/ND/HB1489"
     },
     "ND HB1522": {
-      "description": "",
+      "description": "A BILL for an Act to create and enact a new section to chapter 15.1-06 of the North Dakota Century Code, relating to providing accommodations to a transgender student; and to declare an emergency.",
       "status": "Engrossed",
-      "title": "Relating to providing accommodations to a transgender student; and to declare an emergency.",
+      "title": "Providing accommodations to a transgender student; and to declare an emergency.",
       "url": "/bills/2023/ND/HB1522"
     },
     "ND HB1526": {
-      "description": "Relating to school discrimination, parental rights and involvement in school, curbing of social emotional learning, and the review and recommendation of instructional materials; to amend and reenact subsection 6 of section 14-02.4-02 and section 15.1-21-24 of the North Dakota Century Code, relating to the definition of a discriminatory practice and reproductive health education requirements; and to provide a penalty.",
+      "description": "A BILL for an Act to create and enact a new section to chapter 14-02.4, a new section to chapter 15.1-07, and two new sections to chapter 15.1-21 of the North Dakota Century Code, relating to school discrimination, parental rights and involvement in school, curbing of social emotional learning, and the review and recommendation of instructional materials; to amend and reenact subsection 6 of section 14-02.4-02 and section 15.1-21-24 of the North Dakota Century Code, relating to the definition of a discriminatory practice and reproductive health education requirements; and to provide a penalty.",
       "status": "Introduced",
       "title": "The definition of a discriminatory practice and reproductive health education requirements; and to provide a penalty.",
       "url": "/bills/2023/ND/HB1526"
@@ -1455,21 +1455,21 @@
       "url": "/bills/2023/ND/HCR3010"
     },
     "ND SB2199": {
-      "description": "",
+      "description": "A BILL for an Act to amend and reenact section 1-01-34 of the North Dakota Century Code, relating to gender usage in the North Dakota Century Code; and to provide a penalty.",
       "status": "Introduced",
-      "title": "Relating to gender usage in the North Dakota Century Code; and to provide a penalty.",
+      "title": "Gender usage in the North Dakota Century Code; and to provide a penalty.",
       "url": "/bills/2023/ND/SB2199"
     },
     "ND SB2231": {
-      "description": "",
+      "description": "AN ACT to create and enact sections 14-02.4-03.1 and 15.1-06-21 of the North Dakota Century Code, relating to preferred pronoun discriminatory practices and school policies on expressed gender.",
       "status": "Engrossed",
-      "title": "Relating to preferred pronoun discriminatory practices and school policies on expressed gender.",
+      "title": "Preferred pronoun discriminatory practices and school policies on expressed gender.",
       "url": "/bills/2023/ND/SB2231"
     },
     "ND SB2260": {
-      "description": "",
+      "description": "A BILL for an Act to create and enact a new section to chapter 14-09, a new section to chapter 15.1-09, and a new section to chapter 23-12 of the North Dakota Century Code, relating to fundamental parental rights, parental involvement in education, and parental right to consent to medical treatment of the parent's child.",
       "status": "Engrossed",
-      "title": "Relating to fundamental parental rights, parental involvement in education, and parental right to consent to medical treatment of the parent's child.",
+      "title": "Fundamental parental rights, parental involvement in education, and parental right to consent to medical treatment of the parent's child.",
       "url": "/bills/2023/ND/SB2260"
     }
   },
@@ -1482,7 +1482,7 @@
     },
     "NE LB574": {
       "description": "",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Adopt the Let Them Grow Act",
       "url": "/bills/2023/NE/LB574"
     },
@@ -2104,13 +2104,13 @@
   "TN": {
     "TN HB0001": {
       "description": "As enacted, prohibits a healthcare provider from performing on a minor or administering to a minor a medical procedure if the performance or administration of the procedure is for the purpose of enabling a minor to identify with, or live as, a purported identity inconsistent with the minor\u2019s sex. - Amends TCA Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71.",
-      "status": "Introduced",
+      "status": "Passed",
       "title": "AN ACT to amend Tennessee Code Annotated, Title 28; Title 29; Title 33; Title 34; Title 36; Title 37; Title 39; Title 40; Title 49; Title 56; Title 63; Title 68 and Title 71, relative to medical care of the young.",
       "url": "/bills/2023/TN/HB0001"
     },
     "TN HB0009": {
       "description": "As enacted, creates an offense for a person who engages in an adult cabaret performance on public property or in a location where the adult cabaret performance could be viewed by a person who is not an adult. - Amends TCA Title 7, Chapter 51, Part 14.",
-      "status": "Introduced",
+      "status": "Passed",
       "title": "AN ACT to amend Tennessee Code Annotated, Title 7, Chapter 51, Part 14, relative to adult-oriented performances.",
       "url": "/bills/2023/TN/HB0009"
     },
@@ -2594,7 +2594,7 @@
     },
     "UT HB0228": {
       "description": "",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "Unprofessional Conduct Amendments",
       "url": "/bills/2023/UT/HB0228"
     },
@@ -2624,7 +2624,7 @@
     },
     "UT SB0093": {
       "description": "",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "Birth Certificate Modifications",
       "url": "/bills/2023/UT/SB0093"
     },
