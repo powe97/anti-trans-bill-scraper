@@ -40,7 +40,7 @@
     },
     "AR SB125": {
       "description": "",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Concerning Free Speech Rights At State-supported Institutions Of Higher Education.",
       "url": "/bills/2023/AR/SB125"
     },
@@ -229,7 +229,7 @@
       "url": "/bills/2023/FL/H1319"
     },
     "FL H1421": {
-      "description": "Authorizes court of state to enter, modify, or stay child custody determination under specified circumstances; rohibits persons & entities from expending funds for reimbursement for specified clinical interventions; prohibits person's biological sex from being changed on birth certificate; prohibits gender clinical interventions for minors; authorizes certain persons to refuse to participate in gender clinical interventions; prohibits health insurance policy & health maintenance contract from providing coverage for gender clinical interventions; provides physician liability & authorizes award of specified damages, fees, & costs.",
+      "description": "Authorizes court of state to enter, modify, or stay child custody determination under specified circumstances; prohibits persons & entities from expending funds for reimbursement for specified clinical interventions; prohibits person's biological sex from being changed on birth certificate; prohibits gender clinical interventions for minors; authorizes certain persons to refuse to participate in gender clinical interventions; prohibits health insurance policy & health maintenance contract from providing coverage for gender clinical interventions; provides physician liability & authorizes award of specified damages, fees, & costs.",
       "status": "Introduced",
       "title": "Gender Clinical Interventions",
       "url": "/bills/2023/FL/H1421"
@@ -477,7 +477,7 @@
   },
   "ID": {
     "ID H0071": {
-      "description": "CHILD PROTECTION ACT -- Adds to existing law to establish provisions regarding vulnerable child protection.",
+      "description": "VULNERABLE CHILD PROTECTION ACT -- Adds to existing law to establish provisions regarding vulnerable child protection.",
       "status": "Engrossed",
       "title": "Adds to existing law to establish provisions regarding vulnerable child protection.",
       "url": "/bills/2023/ID/H0071"
@@ -490,7 +490,7 @@
     },
     "ID S1016": {
       "description": "GOVERNMENT -- Amends existing law to provide that a public works contractor shall not be required to provide access to a multiple-occupancy restroom, multiple-occupancy shower facility, or multiple-occupancy changing room on any basis other than sex.",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "Amends existing law to provide that a public works contractor shall not be required to provide access to a multiple-occupancy restroom, multiple-occupancy shower facility, or multiple-occupancy changing room on any basis other than sex.",
       "url": "/bills/2023/ID/S1016"
     },
@@ -626,7 +626,7 @@
     },
     "IN SB0480": {
       "description": "Gender transition procedures for minors. Prohibits a physician or other practitioner from: (1) knowingly providing gender transition procedures to an individual who is less than 18 years of age (minor); and (2) aiding or abetting another physician or practitioner in the provision of gender transition procedures to a minor. Specifies certain medical exceptions. Establishes civil enforcement actions.",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "Gender transition procedures for minors.",
       "url": "/bills/2023/IN/SB0480"
     },
@@ -780,13 +780,13 @@
     },
     "KY SB145": {
       "description": "Amend KRS 156.070 to remove the statutory eligibility restriction for nonresident student participation in interscholastic athletics; retain eligibility authority with the agency designated to manage interscholastic athletics.",
-      "status": "Passed",
+      "status": "Passed - pending Governor signature",
       "title": "AN ACT relating to interscholastic athletics.",
       "url": "/bills/2023/KY/SB145"
     },
     "KY SB150": {
       "description": "Create a new section of KRS Chapter 158 to establish definitions; require specific parental notifications from public schools; require school districts to adopt specific procedures related to parental rights; limit authority of the Kentucky Board of Education and Kentucky Department of Education in relation to parental rights and a student's use of pronouns; prohibit district or school policies with the intent of keeping student information confidential for parents; prohibit a school district from requiring school personnel or pupils to use pronouns for students that do not conform to that student's biological sex; provide school districts and district personnel authority to seek emergency medical services for a student; provide conditions for student confidentiality; amend KRS 158.1415 to establish requirements for any public school's course, curriculum, or program on the subject of human sexuality.",
-      "status": "Vetoed",
+      "status": "Passed - pending Governor signature",
       "title": "AN ACT relating to children.",
       "url": "/bills/2023/KY/SB150"
     }
@@ -1635,7 +1635,7 @@
       "url": "/bills/2023/OH/HB68"
     },
     "OH HB8": {
-      "description": "To amend sections 2913.02, 2913.51, 4737.012, 4737.04, 4737.041, 4737.045, 4737.99, 4738.03, 4738.07, 4738.12, 4745.01, 4775.09, and 5703.21 and to enact sections 4737.046, 4737.20, 4737.21, 4737.22, 4737.23, 4737.24, 4737.25, and 4737.98 of the Revised Code regarding the sale of used catalytic converters, and to make an appropriation.",
+      "description": "To amend sections 3314.03 and 3326.11 and to enact section 3313.473 of the Revised Code to enact the \"Parents' Bill of Rights\" to require public schools to adopt a policy on parental notification on student health and well-being and instructional materials with sexually explicit content.",
       "status": "Introduced",
       "title": "Primary Sponsors",
       "url": "/bills/2023/OH/HB8"
