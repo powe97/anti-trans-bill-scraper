@@ -38,6 +38,12 @@
       "title": "To Create The Conscience Protection Act; And To Amend The Religious Freedom Restoration Act.",
       "url": "/bills/2023/AR/HB1615"
     },
+    "AR HB1738": {
+      "description": "",
+      "status": "Introduced",
+      "title": "To Create The Parents' Bill Of Rights.",
+      "url": "/bills/2023/AR/HB1738"
+    },
     "AR SB125": {
       "description": "",
       "status": "Engrossed",
@@ -283,6 +289,12 @@
       "status": "Introduced",
       "title": "Professions and businesses; prohibit health care providers from performing practices on minors to alter their appearance relating to gender",
       "url": "/bills/2023/GA/HB653"
+    },
+    "GA HB836": {
+      "description": "A BILL to be entitled an Act to amend Part 3 of Article 16 of Chapter 2 of Title 20 of the O.C.G.A., relating to health of elementary and secondary school students, so as to provide for the safety of students; to require multiple occupancy restrooms and changing areas in public schools to be designated for exclusive use by males or females; to provide for reasonable accommodations; to provide for exceptions; to provide for public school and local school system policies; to provide for sleeping quarter arrangements on overnight field trips; to provide for investigation of complaints of noncompliance by the Professional Standards Commission; to provide for sanctions; to provide for a cause of action; to provide for rules and regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+      "status": "Introduced",
+      "title": "Education; provide safety of students; require multiple occupancy restrooms and changing areas designated for exclusive use by males or females",
+      "url": "/bills/2023/GA/HB836"
     },
     "GA SB140": {
       "description": "A BILL to be entitled an Act to amend Article 1 of Chapter 7 of Title 31 of the Official Code of Georgia Annotated, relating to regulation of hospitals and related institutions, so as to prohibit certain surgical procedures for the treatment of gender dysphoria in minors from being performed in hospitals and other licensed healthcare facilities; to provide for exceptions; to provide for violations; to amend Article 1 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to the Georgia Composite Medical Board, so as to prohibit certain surgical procedures for the treatment of gender dysphoria in minors; to provide for exceptions; to provide for violations; to provide for legislative findings; to provide for related matters; to repeal conflicting laws; and for other purposes.",
@@ -701,7 +713,7 @@
     "KS SB228": {
       "description": "",
       "status": "Engrossed",
-      "title": "Modernizing statutes concerning county jails, removing the requirement that every county shall have a jail, modifying procedures used when district courts commit prisoners to jail in another county and when counties contract with city jails to keep prisoners and requiring a medical examination before certain United States prisoners or city prisoners are taken into custody of a county jail.",
+      "title": "Requiring the secretary for aging and disability services to reimburse counties for certain costs when a person is in a county jail awaiting examination, evaluation or treatment for competency, modernizing statutes concerning county jails, removing the requirement that every county shall have a jail, modifying procedures used when district courts commit prisoners to jail in another county and when counties contract with city jails to keep prisoners and requiring a medical examination before certain United States prisoners or city prisoners are taken into custody of a county jail.",
       "url": "/bills/2023/KS/SB228"
     },
     "KS SB233": {
@@ -718,7 +730,7 @@
     },
     "KS SB291": {
       "description": "",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Enacting the Kansas public investments and contracts protection act concerning environmental, social and governance (ESG) criteria, prohibiting the state and political subdivisions from giving preferential treatment to or discriminating against companies based on such ESG criteria in procuring or letting contracts, requiring KPERS fiduciaries to act solely in the financial interest of the participants and beneficiaries of the system, restricting state agencies from adopting ESG criteria or requiring any person or business to operate in accordance with such criteria, directing registered investment advisers to provide ESG criteria notice to clients and providing for enforcement of such act by the attorney general.",
       "url": "/bills/2023/KS/SB291"
     }
@@ -780,13 +792,13 @@
     },
     "KY SB145": {
       "description": "Amend KRS 156.070 to remove the statutory eligibility restriction for nonresident student participation in interscholastic athletics; retain eligibility authority with the agency designated to manage interscholastic athletics.",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "AN ACT relating to interscholastic athletics.",
       "url": "/bills/2023/KY/SB145"
     },
     "KY SB150": {
       "description": "Create a new section of KRS Chapter 158 to establish definitions; require specific parental notifications from public schools; require school districts to adopt specific procedures related to parental rights; limit authority of the Kentucky Board of Education and Kentucky Department of Education in relation to parental rights and a student's use of pronouns; prohibit district or school policies with the intent of keeping student information confidential for parents; prohibit a school district from requiring school personnel or pupils to use pronouns for students that do not conform to that student's biological sex; provide school districts and district personnel authority to seek emergency medical services for a student; provide conditions for student confidentiality; amend KRS 158.1415 to establish requirements for any public school's course, curriculum, or program on the subject of human sexuality.",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "AN ACT relating to children.",
       "url": "/bills/2023/KY/SB150"
     }
@@ -856,11 +868,23 @@
       "title": "Drag performances classified as adult entertainment, and location restrictions of an adult entertainment establishment expanded.",
       "url": "/bills/2023/MN/HF1903"
     },
+    "MN HF3022": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Student welfare and parental awareness in education provided.",
+      "url": "/bills/2023/MN/HF3022"
+    },
     "MN HF551": {
       "description": "",
       "status": "Introduced",
       "title": "Female sports team participation restricted to female sex.",
       "url": "/bills/2023/MN/HF551"
+    },
+    "MN SF3032": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Parental Rights Awareness Act",
+      "url": "/bills/2023/MN/SF3032"
     },
     "MN SF311": {
       "description": "",
@@ -1350,7 +1374,7 @@
     },
     "MT SB99": {
       "description": "",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "Provide for a youth health protection act",
       "url": "/bills/2023/MT/SB99"
     }
@@ -1419,9 +1443,9 @@
       "url": "/bills/2023/ND/HB1333"
     },
     "ND HB1473": {
-      "description": "A BILL for an Act to create and enact a new section to chapter 12-44.1, a new section to chapter 12-46, a new section to chapter 12-47, a new section to chapter 14-07.1, and a new section to chapter 15-10 of the North Dakota Century Code, relating to the use of restrooms, locker rooms, and shower rooms in a dormitory or living facility controlled by the state board of higher education, a correctional facility, a domestic violence sexual assault organization facility, the North Dakota youth correctional center, and the penitentiary exclusively for males and females.",
+      "description": "A BILL for an Act to create and enact a new section to chapter 12-44.1, a new section to chapter 12-46, a new section to chapter 12-47, and a new section to chapter 15-10 of the North Dakota Century Code, relating to the use of restrooms, locker rooms, and shower rooms in a dormitory or living facility controlled by the state board of higher education, a correctional facility, the North Dakota youth correctional center, and the penitentiary exclusively for males and females.",
       "status": "Engrossed",
-      "title": "The use of restrooms, locker rooms, and shower rooms in a dormitory or living facility controlled by the state board of higher education, a correctional facility, a domestic violence sexual assault organization facility, the North Dakota youth correctional center, and the penitentiary exclusively for males and females.",
+      "title": "The use of restrooms, locker rooms, and shower rooms in a dormitory or living facility controlled by the state board of higher education, a correctional facility, the North Dakota youth correctional center, and the penitentiary exclusively for males and females.",
       "url": "/bills/2023/ND/HB1473"
     },
     "ND HB1474": {
@@ -2528,13 +2552,13 @@
     },
     "TX SB15": {
       "description": "",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Relating to requiring public institution of higher education students who compete in intercollegiate athletic competitions to compete based on biological sex.",
       "url": "/bills/2023/TX/SB15"
     },
     "TX SB162": {
       "description": "",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Relating to the required inclusion of a person's sex on a birth certificate and prohibited change of sex on the birth certificate of certain minors.",
       "url": "/bills/2023/TX/SB162"
     },
