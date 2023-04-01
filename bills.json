@@ -212,7 +212,7 @@
     },
     "FL H1069": {
       "description": "Defines \"sex\" for Florida Early Learning-20 Education Code; provides requirements relating to titles & pronouns; revises provisions relating to instruction & materials for specified instruction relating to reproductive health; provides additional requirements for instruction regarding human sexuality; provides district school boards are responsible for materials used in classroom libraries; revises provisions relating to objections of certain materials & process related to such objections; revises school principal, school district & district school board duties & responsibilities relating to certain materials & processes.",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Education",
       "url": "/bills/2023/FL/H1069"
     },
@@ -241,7 +241,7 @@
       "url": "/bills/2023/FL/H1421"
     },
     "FL H1521": {
-      "description": "Provides requirements for exclusive use of restrooms & changing facilities by gender; provides exceptions; prohibits willfully entering restroom or changing facility designated for opposite sex & refusing to immediately depart when asked to do so by another person present there; provides requirements for exclusive use of domestic violence centers by gender; provides requirements for correctional institutions; requires entities that receive state licenses to submit compliance documentation; authorizes AG to bring enforcement actions.",
+      "description": "Provides requirements for exclusive use of restrooms & changing facilities by gender; prohibits willfully entering restroom or changing facility designated for opposite sex & refusing to depart when asked to do so; provides requirements for exclusive use of domestic violence centers by gender; provides requirements for correctional institutions; requires entities that receive state licenses to submit compliance documentation; authorizes AG to bring enforcement actions provides exception for individuals born with certain genetically or biochemically verifiable disorder of sex development.",
       "status": "Introduced",
       "title": "Facility Requirements Based on Sex",
       "url": "/bills/2023/FL/H1521"
@@ -490,7 +490,7 @@
   "ID": {
     "ID H0071": {
       "description": "VULNERABLE CHILD PROTECTION ACT -- Adds to existing law to establish provisions regarding vulnerable child protection.",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "Adds to existing law to establish provisions regarding vulnerable child protection.",
       "url": "/bills/2023/ID/H0071"
     },
@@ -602,7 +602,7 @@
     },
     "IN HB1569": {
       "description": "Restrictions on DOC provision of  gender therapy. Provides that the department of correction may not authorize the payment of any money, the use of any state resources, or the payment of any federal money administered by the state to provide or facilitate the provision of sexual reassignment surgery to an offender patient.",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "Restrictions on DOC provision of  gender therapy.",
       "url": "/bills/2023/IN/HB1569"
     },
@@ -1449,9 +1449,9 @@
       "url": "/bills/2023/ND/HB1473"
     },
     "ND HB1474": {
-      "description": "A BILL for an Act to create and enact a new section to chapter 23-02.1 of the North Dakota Century Code, relating to vital statistic collection; and to amend and reenact section 1-01-49 of the North Dakota Century Code, relating to the definition of father, female, male, mother, and sex.",
+      "description": "A BILL for an Act to amend and reenact section 1-01-49 and subsection 7 of section 51-35-01 of the North Dakota Century Code, relating to the definition of female, male, sex, and scrap metal dealer.",
       "status": "Engrossed",
-      "title": "The definition of father, female, male, mother, and sex.",
+      "title": "The definition of female, male, sex, and scrap metal dealer.",
       "url": "/bills/2023/ND/HB1474"
     },
     "ND HB1489": {
@@ -1486,7 +1486,7 @@
     },
     "ND SB2231": {
       "description": "AN ACT to create and enact sections 14-02.4-03.1 and 15.1-06-21 of the North Dakota Century Code, relating to preferred pronoun discriminatory practices and school policies on expressed gender.",
-      "status": "Passed - pending Governor signature",
+      "status": "Vetoed",
       "title": "Preferred pronoun discriminatory practices and school policies on expressed gender.",
       "url": "/bills/2023/ND/SB2231"
     },
@@ -2780,7 +2780,7 @@
   "WV": {
     "WV HB2007": {
       "description": "The purpose of this bill is to prohibit certain medical practices.",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "Prohibiting certain medical practices",
       "url": "/bills/2023/WV/HB2007"
     },
