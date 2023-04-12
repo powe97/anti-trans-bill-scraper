@@ -19,6 +19,14 @@
       "url": "/bills/2023/AK/SB96"
     }
   },
+  "AL": {
+    "AL HB261": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Relating to two-year and four-year public institutions of higher education; to amend Section 16-1-52, Code of Alabama 1975, to prohibit a biological male from participating on an athletic team or sport designated for females; to prohibit a biological female from participating on an athletic team or sport designated for males; to prohibit adverse action against a public K-12 school or public two-year or four-year institution of higher education for complying with this act; to prohibit adverse action or retaliation against a student who reports a violation of this act; and to provide a remedy for any student who suffers harm as a result of a violation of this act.",
+      "url": "/bills/2023/AL/HB261"
+    }
+  },
   "AR": {
     "AR HB1156": {
       "description": "",
@@ -272,7 +280,7 @@
     },
     "FL S1382": {
       "description": "Urging Congress to restore the United States Department of Defense's superior warfighting principles of recruiting, assigning, training, promoting, and retaining personnel solely based on merit and ensuring such personnel maintain and display a warrior ethos, etc.",
-      "status": "Introduced",
+      "status": "Passed",
       "title": "United States Department of Defense",
       "url": "/bills/2023/FL/S1382"
     },
@@ -366,12 +374,6 @@
       "title": "A bill for an act relating to gender under the Iowa civil rights Act.",
       "url": "/bills/2023/IA/HF190"
     },
-    "IA HF2": {
-      "description": "",
-      "status": "Introduced",
-      "title": "A bill for an act relating to public contracts, public fund investing, and lending practices with certain companies that engage in economic boycotts based on environmental, social, or governance criteria, and including effective date and applicability provisions.(See HF 653.)",
-      "url": "/bills/2023/IA/HF2"
-    },
     "IA HF290": {
       "description": "",
       "status": "Introduced",
@@ -420,17 +422,17 @@
       "title": "A bill for an act relating to prohibited activities regarding gender transition procedures relative to minors, and including effective date and applicability provisions.(Formerly HSB 214.)",
       "url": "/bills/2023/IA/HF623"
     },
+    "IA HF653": {
+      "description": "",
+      "status": "Introduced",
+      "title": "A bill for an act concerning public contracts by public funds with companies that boycott certain companies or that engage in nonpecuniary social investment policies.(Formerly HF 2.)",
+      "url": "/bills/2023/IA/HF653"
+    },
     "IA HJR8": {
       "description": "",
       "status": "Introduced",
       "title": "A joint resolution proposing an amendment to the Constitution of the State of Iowa relating to marriage.",
       "url": "/bills/2023/IA/HJR8"
-    },
-    "IA HSB208": {
-      "description": "",
-      "status": "Introduced",
-      "title": "A bill for an act permitting public schools to designate and allow the use of restrooms and changing facilities only by persons of the same biological sex, and providing a private cause of action.(See HF 622.)",
-      "url": "/bills/2023/IA/HSB208"
     },
     "IA HSB222": {
       "description": "",
@@ -614,7 +616,7 @@
     },
     "IN HB1608": {
       "description": "Education matters. Provides that a school, an employee or staff member of a school, or a third party vendor used by a school to provide instruction may not provide any instruction to a student in prekindergarten through grade 3 on human sexuality. Provides that a school employee or a school staff member is not prohibited from responding to a question from a student regarding certain topics. Requires a school to notify in writing at least one parent of a student, if the student is an unemancipated minor, of a request made by the student to change the student's name or pronoun, title, or word to identify the student.",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "Education matters.",
       "url": "/bills/2023/IN/HB1608"
     },
@@ -650,11 +652,23 @@
     }
   },
   "KS": {
+    "KS HB2138": {
+      "description": "",
+      "status": "Engrossed",
+      "title": "Senate Substitute for HB 2138 by Committee on Education - Requiring school districts to provide separate accommodations for students of each biological sex on overnight school district sponsored trips and providing for administrative review of resolutions to permanently close a school building of a school district.",
+      "url": "/bills/2023/KS/HB2138"
+    },
     "KS HB2238": {
       "description": "",
       "status": "Passed",
       "title": "Creating the fairness in women's sports act to require that female student athletic teams only include members who are biologically female.",
       "url": "/bills/2023/KS/HB2238"
+    },
+    "KS HB2263": {
+      "description": "",
+      "status": "Engrossed",
+      "title": "Authorizing pharmacy technicians to administer certain vaccines, creating a civil cause of action against a physician and requiring revocation of a physician's license who performs a childhood gender reassignment service.",
+      "url": "/bills/2023/KS/HB2263"
     },
     "KS HB2404": {
       "description": "",
@@ -804,6 +818,18 @@
     }
   },
   "LA": {
+    "LA HB463": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Prohibits certain procedures to alter the sex of a minor child",
+      "url": "/bills/2023/LA/HB463"
+    },
+    "LA HB466": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Provides relative to discussion of sexual orientation and gender identity in public schools",
+      "url": "/bills/2023/LA/HB466"
+    },
     "LA HB81": {
       "description": "",
       "status": "Introduced",
@@ -1110,12 +1136,6 @@
       "title": "Modifies provisions relating to fiduciary duties for investments of public employee retirement systems",
       "url": "/bills/2023/MO/SB436"
     },
-    "MO SB451": {
-      "description": "",
-      "status": "Introduced",
-      "title": "Establishes the \"Parents' Bill of Rights\" to protect and promote the rights of parents to participate in and direct the education of their child and to know what is being taught in their child's public school",
-      "url": "/bills/2023/MO/SB451"
-    },
     "MO SB48": {
       "description": "",
       "status": "Introduced",
@@ -1151,12 +1171,6 @@
       "status": "Introduced",
       "title": "Establishes the \"Save Women's Sports Act\"",
       "url": "/bills/2023/MO/SB87"
-    },
-    "MO SB89": {
-      "description": "",
-      "status": "Introduced",
-      "title": "Creates the Missouri Education Transparency and Accountability Portal and the Parents' Bill of Rights Act of 2023",
-      "url": "/bills/2023/MO/SB89"
     }
   },
   "MS": {
@@ -1318,12 +1332,6 @@
     }
   },
   "MT": {
-    "MT HB218": {
-      "description": "",
-      "status": "Engrossed",
-      "title": "Revise private alternative adolescent residential or outdoor programs laws",
-      "url": "/bills/2023/MT/HB218"
-    },
     "MT HB234": {
       "description": "",
       "status": "Engrossed",
@@ -1344,7 +1352,7 @@
     },
     "MT HB361": {
       "description": "",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "Provide that use of a name and sex by a student is not discrimination",
       "url": "/bills/2023/MT/HB361"
     },
@@ -1372,6 +1380,12 @@
       "title": "Define sex in Montana law",
       "url": "/bills/2023/MT/SB458"
     },
+    "MT SB518": {
+      "description": "",
+      "status": "Engrossed",
+      "title": "Revise parental rights laws to increase parental involvement in education",
+      "url": "/bills/2023/MT/SB518"
+    },
     "MT SB99": {
       "description": "",
       "status": "Passed - pending Governor signature",
@@ -1386,11 +1400,29 @@
       "title": "Prohibition of Certain Hormone/Surgery/Minors",
       "url": "/bills/2023/NC/H43"
     },
+    "NC H574": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Fairness in Women's Sports Act",
+      "url": "/bills/2023/NC/H574"
+    },
     "NC S49": {
       "description": "",
       "status": "Engrossed",
       "title": "Parents' Bill of Rights",
       "url": "/bills/2023/NC/S49"
+    },
+    "NC S560": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Medical Treatment for Minors Act",
+      "url": "/bills/2023/NC/S560"
+    },
+    "NC S631": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Fairness in Women's Sports Act",
+      "url": "/bills/2023/NC/S631"
     }
   },
   "ND": {
@@ -1663,12 +1695,6 @@
       "status": "Introduced",
       "title": "Enact the Parents' Bill of Rights",
       "url": "/bills/2023/OH/HB8"
-    },
-    "OH SB6": {
-      "description": "To amend sections 145.11, 742.11, 3307.15, 3309.15, 3345.16, 4123.44, 4123.442, and 5505.06 and to enact section 3345.161 of the Revised Code regarding environmental, social, and corporate governance policies with respect to the state retirement systems, Bureau of Workers' Compensation, and state institutions of higher education.",
-      "status": "Introduced",
-      "title": "Regards certain public entities' governance policies",
-      "url": "/bills/2023/OH/SB6"
     }
   },
   "OK": {
@@ -2741,14 +2767,6 @@
       "url": "/bills/2023/VA/SB962"
     }
   },
-  "VT": {
-    "VT H0183": {
-      "description": "",
-      "status": "Introduced",
-      "title": "An act relating to protecting health care providers\u2019 rights of conscience",
-      "url": "/bills/2023/VT/H0183"
-    }
-  },
   "WA": {
     "WA HB1214": {
       "description": "",
@@ -2905,12 +2923,6 @@
       "status": "Failed",
       "title": "Parental rights in education.",
       "url": "/bills/2023/WY/SF0117"
-    },
-    "WY SF0130": {
-      "description": "AN ACT relating to education; requiring instruction in public K-12 schools to be consistent with the principles of individual freedom as specified; providing definitions; and providing for an effective date.",
-      "status": "Failed",
-      "title": "Educational Freedom Act.",
-      "url": "/bills/2023/WY/SF0130"
     },
     "WY SF0133": {
       "description": "AN ACT relating to education; prohibiting students of the male sex from competing on a team designated for students of the female sex as specified; prohibiting retaliation; providing for an administrative hearing as specified; alternatively providing for a commission to determine student eligibility as specified; providing definitions; providing immunity as specified; providing an appropriation; requiring rulemaking; and providing for an effective date.",
