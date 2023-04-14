@@ -1013,7 +1013,7 @@
     "MO HB494": {
       "description": "",
       "status": "Introduced",
-      "title": "Creates the offense of engaging in an adult cabaret performance",
+      "title": "Modifies provisions relating to sexually oriented businesses",
       "url": "/bills/2023/MO/HB494"
     },
     "MO HB498": {
@@ -1428,7 +1428,7 @@
   "ND": {
     "ND HB1139": {
       "description": "AN ACT to amend and reenact sections 23-02.1-01, 23-02.1-13, and 23-02.1-15 of the North Dakota Century Code, relating to required elements of birth records.",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "Required elements of birth records.",
       "url": "/bills/2023/ND/HB1139"
     },
@@ -1440,7 +1440,7 @@
     },
     "ND HB1249": {
       "description": "AN ACT to create and enact chapter 15.1-41 of the North Dakota Century Code, relating to requiring schools to designate their athletic teams and sports for male, female, or coed participation and limitations on use of governmental property for athletic events.",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "Requiring schools to designate their athletic teams and sports for male, female, or coed participation and limitations on use of governmental property for athletic events.",
       "url": "/bills/2023/ND/HB1249"
     },
@@ -1488,7 +1488,7 @@
     },
     "ND HB1489": {
       "description": "AN ACT to create and enact chapter 15-10.6 of the North Dakota Century Code, relating to requiring institutions of higher education designating athletic teams and sports for male, female, or coed participation.",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "Requiring institutions of higher education designating athletic teams and sports for male, female, or coed participation.",
       "url": "/bills/2023/ND/HB1489"
     },
@@ -1538,7 +1538,7 @@
     },
     "NE LB574": {
       "description": "",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "Adopt the Let Them Grow Act",
       "url": "/bills/2023/NE/LB574"
     },
@@ -1675,6 +1675,20 @@
       "status": "Introduced",
       "title": "Revises provisions relating to governmental financial administration. (BDR 23-945)",
       "url": "/bills/2023/NV/SB228"
+    }
+  },
+  "NY": {
+    "NY A06124": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Protects women's sports in middle school and high school from unfair competition.",
+      "url": "/bills/2023/NY/A06124"
+    },
+    "NY S06259": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Protects women's sports in middle school and high school from unfair competition.",
+      "url": "/bills/2023/NY/S06259"
     }
   },
   "OH": {
@@ -2282,7 +2296,7 @@
     },
     "TN SB1237": {
       "description": "As introduced, authorizes a private school to create a policy to regulate a student's participation in the school's athletic activities or events based upon a student's biological sex. - Amends TCA Title 49, Chapter 1 and Title 49, Chapter 50.",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "AN ACT to amend Tennessee Code Annotated, Title 49, Chapter 1 and Title 49, Chapter 50, relative to private schools.",
       "url": "/bills/2023/TN/SB1237"
     },
