@@ -1346,7 +1346,7 @@
     },
     "MT HB303": {
       "description": "",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "Implement Medical Ethics and Diversity Act",
       "url": "/bills/2023/MT/HB303"
     },
@@ -1672,13 +1672,13 @@
   "NV": {
     "NV AB374": {
       "description": "AN ACT relating to athletics; requiring the Nevada Interscholastic Activities Association to adopt rules and regulations requiring each interscholastic activity or event to be designated based on biological sex; requiring the Board of Regents of the University of Nevada to adopt a policy requiring each interscholastic sport or athletic event that is sanctioned or sponsored by a university, state college or community college within the Nevada System of Higher Education to be designated based on biological sex; requiring each organization for youth sports that sanctions or sponsors competitive sports for youths in this State to adopt a policy requiring each youth sport to be designated based on biological sex; defining certain terms; and providing other matters properly relating thereto.",
-      "status": "Introduced",
+      "status": "Failed",
       "title": "Revises provisions governing athletics in schools, the Nevada System of Higher Education and organizations for youth sports. (BDR 34-718)",
       "url": "/bills/2023/NV/AB374"
     },
     "NV SB228": {
       "description": "AN ACT relating to governmental financial administration; prohibiting the Public Employees' Retirement Board from investing, providing investment advice or engaging in shareholder proxy voting for any purpose other than the financial interest of the Public Employees' Retirement System; prohibiting, under certain circumstances, certain governmental entities from contracting with companies that engage in economic boycotts; and providing other matters properly relating thereto.",
-      "status": "Introduced",
+      "status": "Failed",
       "title": "Revises provisions relating to governmental financial administration. (BDR 23-945)",
       "url": "/bills/2023/NV/SB228"
     }
@@ -2529,6 +2529,12 @@
       "status": "Introduced",
       "title": "Relating to a public school policy regarding multi-occupancy bathrooms or changing facilities.",
       "url": "/bills/2023/TX/HB5256"
+    },
+    "TX HB5261": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Relating to public education, including parental rights and public school responsibilities regarding instructional materials and the establishment of an education savings account program.",
+      "url": "/bills/2023/TX/HB5261"
     },
     "TX HB631": {
       "description": "",
