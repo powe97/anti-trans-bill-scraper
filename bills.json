@@ -261,7 +261,7 @@
       "url": "/bills/2023/FL/S0254"
     },
     "FL S0266": {
-      "description": "Revising the duties of the Board of Governors relating to the mission of each state university; requiring the Board of Governors Accountability Plan to annually report certain research expenditures of a specified amount; prohibiting specified educational institutions from expending funds to promote specified concepts; revising how general education core courses are established; specifying a one-time limit on the requirement to change accrediting agencies, etc.",
+      "description": "Revising the duties of the Board of Governors relating to the mission of each state university; requiring the Board of Governors Accountability Plan to annually report certain research expenditures of a specified amount; prohibiting specified educational institutions from expending funds for certain purposes; revising how general education core courses are established; specifying a one-time limit on the requirement to change accrediting agencies, etc.",
       "status": "Introduced",
       "title": "Higher Education",
       "url": "/bills/2023/FL/S0266"
@@ -912,6 +912,12 @@
       "title": "Student welfare and parental awareness in education provided.",
       "url": "/bills/2023/MN/HF3022"
     },
+    "MN HF3264": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Criminal penalties provided for health care practitioners who perform or cause to be performed specified practices on a minor under certain conditions.",
+      "url": "/bills/2023/MN/HF3264"
+    },
     "MN HF551": {
       "description": "",
       "status": "Introduced",
@@ -929,6 +935,12 @@
       "status": "Introduced",
       "title": "Student physical privacy establishment",
       "url": "/bills/2023/MN/SF311"
+    },
+    "MN SF3280": {
+      "description": "",
+      "status": "Introduced",
+      "title": "PROM (Protect Reproductive Organs of Minors) Act",
+      "url": "/bills/2023/MN/SF3280"
     },
     "MN SF724": {
       "description": "",
@@ -1418,6 +1430,12 @@
       "title": "Fairness in Women's Sports Act",
       "url": "/bills/2023/NC/H574"
     },
+    "NC H808": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Youth Health Protection Act",
+      "url": "/bills/2023/NC/H808"
+    },
     "NC S49": {
       "description": "",
       "status": "Engrossed",
@@ -1432,9 +1450,15 @@
     },
     "NC S631": {
       "description": "",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Fairness in Women's Sports Act",
       "url": "/bills/2023/NC/S631"
+    },
+    "NC S639": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Youth Health Protection Act",
+      "url": "/bills/2023/NC/S639"
     }
   },
   "ND": {
@@ -1446,7 +1470,7 @@
     },
     "ND HB1205": {
       "description": "A BILL for an Act to create and enact a new section to chapter 12.1-27.1 of the North Dakota Century Code, relating to prohibiting public libraries from maintaining explicit sexual material; to provide for a legislative management report; and to provide for application.",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "Prohibiting public libraries from maintaining explicit sexual material; to provide for a legislative management report; and to provide for application.",
       "url": "/bills/2023/ND/HB1205"
     },
@@ -1487,13 +1511,13 @@
       "url": "/bills/2023/ND/HB1333"
     },
     "ND HB1473": {
-      "description": "A BILL for an Act to create and enact a new section to chapter 12-44.1, a new section to chapter 12-46, a new section to chapter 12-47, and a new section to chapter 15-10 of the North Dakota Century Code, relating to the use of restrooms, locker rooms, and shower rooms in a dormitory or living facility controlled by the state board of higher education, a correctional facility, the North Dakota youth correctional center, and the penitentiary exclusively for males and females.",
-      "status": "Engrossed",
+      "description": "AN ACT to create and enact a new section to chapter 12-44.1, a new section to chapter 12-46, a new section to chapter 12-47, and a new section to chapter 15-10 of the North Dakota Century Code, relating to the use of restrooms, locker rooms, and shower rooms in a dormitory or living facility controlled by the state board of higher education, a correctional facility, the North Dakota youth correctional center, and the penitentiary exclusively for males and females.",
+      "status": "Passed - pending Governor signature",
       "title": "The use of restrooms, locker rooms, and shower rooms in a dormitory or living facility controlled by the state board of higher education, a correctional facility, the North Dakota youth correctional center, and the penitentiary exclusively for males and females.",
       "url": "/bills/2023/ND/HB1473"
     },
     "ND HB1474": {
-      "description": "A BILL for an Act to amend and reenact section 1-01-49 and subsection 7 of section 51-35-01 of the North Dakota Century Code, relating to the definition of female, male, sex, and scrap metal dealer.",
+      "description": "A BILL for an Act to amend and reenact section 1-01-49, subsection 3 of section 12.1-36.1-01 of the North Dakota Century Code as created by section 1 of House Bill No. 1254, as approved by the sixty-eighth legislative assembly, subsection 2 of section 15-10.6-01 of the North Dakota Century Code as created by section 1 of House Bill No. 1489, as approved by the sixty-eighth legislative assembly, subsection 2 of section 15.1-41-01 of the North Dakota Century Code as created by section 1 of House Bill No. 1249, as approved by the sixty-eighth legislative assembly, subsection 20 of section 23-02.1-01 of the North Dakota Century Code as amended in section 1 of House Bill No. 1139, as approved by the sixty-eighth legislative assembly, and subsection 7 of section 51-35-01 of the North Dakota Century Code, relating to the definition of female, male, sex, and scrap metal dealer.",
       "status": "Engrossed",
       "title": "The definition of female, male, sex, and scrap metal dealer.",
       "url": "/bills/2023/ND/HB1474"
