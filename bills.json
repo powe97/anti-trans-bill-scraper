@@ -42,7 +42,7 @@
     },
     "AR HB1615": {
       "description": "",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "To Create The Conscience Protection Act; And To Amend The Religious Freedom Restoration Act.",
       "url": "/bills/2023/AR/HB1615"
     },
@@ -473,7 +473,7 @@
     "IA SF496": {
       "description": "",
       "status": "Engrossed",
-      "title": "A bill for an act relating to children and students, including establishing a parent's or guardian's right to make decisions affecting the parent's or guardian's child, prohibiting instruction related to gender identity and sexual orientation in school districts, charter schools, and innovation zone schools in kindergarten through grade six, and modifying provisions related to student health screenings, school district library programs, the educational program provided to students enrolled in school districts, accredited nonpublic schools, and charter schools, other duties of school districts and the governing boards of charter schools and innovation zone schools, competent private instruction, and special education. (Formerly SSB 1145.)",
+      "title": "A bill for an act relating to children and students, including establishing a parent's or guardian's right to make decisions affecting the parent's or guardian's child, prohibiting instruction related to gender identity and sexual orientation in school districts, charter schools, and innovation zone schools in kindergarten through grade six, and modifying provisions related to student health screenings, school district library programs, the educational program provided to students enrolled in school districts, accredited nonpublic schools, and charter schools, other duties of school districts and the governing boards of charter schools and innovation zone schools, competent private instruction, and special education. (Formerly SSB 1145.) Effective date: Enactment, 07/01/2023.",
       "url": "/bills/2023/IA/SF496"
     },
     "IA SF538": {
@@ -1430,6 +1430,18 @@
       "title": "Fairness in Women's Sports Act",
       "url": "/bills/2023/NC/H574"
     },
+    "NC H673": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Clarify Regulations on Adult Entertainment",
+      "url": "/bills/2023/NC/H673"
+    },
+    "NC H786": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Youth Health Protection Act",
+      "url": "/bills/2023/NC/H786"
+    },
     "NC H808": {
       "description": "",
       "status": "Introduced",
@@ -1454,6 +1466,12 @@
       "title": "Fairness in Women's Sports Act",
       "url": "/bills/2023/NC/S631"
     },
+    "NC S636": {
+      "description": "",
+      "status": "Introduced",
+      "title": "School Athletic Transparency",
+      "url": "/bills/2023/NC/S636"
+    },
     "NC S639": {
       "description": "",
       "status": "Introduced",
@@ -1469,7 +1487,7 @@
       "url": "/bills/2023/ND/HB1139"
     },
     "ND HB1205": {
-      "description": "A BILL for an Act to create and enact a new section to chapter 12.1-27.1 of the North Dakota Century Code, relating to prohibiting public libraries from maintaining explicit sexual material; to provide for a legislative management report; and to provide for application.",
+      "description": "AN ACT to create and enact a new section to chapter 12.1-27.1 of the North Dakota Century Code, relating to prohibiting public libraries from maintaining explicit sexual material; to provide for a legislative management report; and to provide for application.",
       "status": "Passed - pending Governor signature",
       "title": "Prohibiting public libraries from maintaining explicit sexual material; to provide for a legislative management report; and to provide for application.",
       "url": "/bills/2023/ND/HB1205"
@@ -1506,7 +1524,7 @@
     },
     "ND HB1333": {
       "description": "AN ACT to create and enact a new section to chapter 12.1-27.1 of the North Dakota Century Code, relating to restrictions on adult-oriented performances; to amend and reenact section 12.1-27.1-12 of the North Dakota Century Code, relating to state pre-emption of local laws regulating obscenity; and to provide a penalty.",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "State pre-emption of local laws regulating obscenity; and to provide a penalty.",
       "url": "/bills/2023/ND/HB1333"
     },
@@ -1728,6 +1746,12 @@
     }
   },
   "OH": {
+    "OH HB151": {
+      "description": "To amend sections 3345.45, 4117.14, and 4117.15 and to enact sections 1713.57, 3333.0419, 3345.029, 3345.0216, 3345.0217, 3345.0219, 3345.382, 3345.451, 3345.452, 3345.453, 3345.591, 3345.80, and 3345.87 of the Revised Code to enact the Ohio Higher Education Enhancement Act regarding the operation of state institutions of higher education.",
+      "status": "Introduced",
+      "title": "Enact Ohio Higher Education Enhancement Act",
+      "url": "/bills/2023/OH/HB151"
+    },
     "OH HB6": {
       "description": "To enact sections 3313.5319 and 3345.562 of the Revised Code to enact the Save Women's Sports Act to require schools, state institutions of higher education, and private colleges to designate separate single-sex teams and sports for each sex.",
       "status": "Introduced",
@@ -1951,6 +1975,18 @@
       "status": "Introduced",
       "title": "Education; prohibiting certain employees, volunteers, and contractors from using certain names or pronouns without written consent. Effective date. Emergency.",
       "url": "/bills/2023/OK/SB932"
+    },
+    "OK SB933": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Schools; prohibiting certain schools from compelling participation in certain instruction, professional development, or training. Effective date. Emergency.",
+      "url": "/bills/2023/OK/SB933"
+    },
+    "OK SB935": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Schools; creating the Stop the Wrongs to Our Kids and Employees (Stop W.O.K.E.) Act. Effective date. Emergency.",
+      "url": "/bills/2023/OK/SB935"
     },
     "OK SB937": {
       "description": "",
