@@ -25,6 +25,18 @@
       "status": "Engrossed",
       "title": "Relating to two-year and four-year public institutions of higher education; to amend Section 16-1-52, Code of Alabama 1975, to prohibit a biological male from participating on an athletic team or sport designated for females; to prohibit a biological female from participating on an athletic team or sport designated for males; to prohibit adverse action against a public K-12 school or public two-year or four-year institution of higher education for complying with this act; to prohibit adverse action or retaliation against a student who reports a violation of this act; and to provide a remedy for any student who suffers harm as a result of a violation of this act.",
       "url": "/bills/2023/AL/HB261"
+    },
+    "AL HB354": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Relating to education; to amend Section 2 of Act 2022-290, now appearing as Section 16-40A-5, Code of Alabama 1975; to prohibit classroom instruction related to gender identity or sexual orientation in public K-12 schools at certain grade levels and in any grade level in a manner that is not age or developmentally appropriate; to require parents to be notified if there is a change in services or monitoring relating to his or her child's mental, emotional, or physical health; to require parents to be notified of health care services available to students and to allow a parent to opt his or her child out; to require parental consent for certain health care screenings or questionnaires for K-12 students; to provide parents with procedures to express their concern with a local board of education's compliance with certain policies; and to provide a remedy in certain situations.",
+      "url": "/bills/2023/AL/HB354"
+    },
+    "AL SB211": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Relating to two-year and four-year public institutions of higher education; to amend Section 16-1-52, Code of Alabama 1975, to prohibit a biological male from participating on an athletic team or sport designated for females; to prohibit a biological female from participating on an athletic team or sport designated for males; to prohibit adverse action against a public K-12 school or public two-year or four-year institution of higher education for complying with this act; to prohibit adverse action or retaliation against a student who reports a violation of this act; and to provide a remedy for any student who suffers harm as a result of a violation of this act.",
+      "url": "/bills/2023/AL/SB211"
     }
   },
   "AR": {
@@ -95,6 +107,12 @@
       "status": "Introduced",
       "title": "Student information; parental notification; requirements",
       "url": "/bills/2023/AZ/HB2711"
+    },
+    "AZ HB2786": {
+      "description": "",
+      "status": "Engrossed",
+      "title": "Teacher training; parental notification; requirements",
+      "url": "/bills/2023/AZ/HB2786"
     },
     "AZ SB1001": {
       "description": "",
@@ -726,7 +744,7 @@
     },
     "KS SB228": {
       "description": "",
-      "status": "Vetoed",
+      "status": "Passed",
       "title": "Requiring the secretary for aging and disability services to reimburse counties for certain costs when a person is in a county jail awaiting examination, evaluation or treatment for competency, modernizing statutes concerning county jails, removing the requirement that every county shall have a jail, modifying procedures used when district courts commit prisoners to jail in another county and when counties contract with city jails to keep prisoners and requiring a medical examination before certain United States prisoners or city prisoners are taken into custody of a county jail.",
       "url": "/bills/2023/KS/SB228"
     },
@@ -798,6 +816,12 @@
       "title": "AN ACT relating to birth certificates.",
       "url": "/bills/2023/KY/HB585"
     },
+    "KY HR95": {
+      "description": "Urge the Kentucky Board of Education to dismiss Jason E. Glass from the office of Commissioner of Education for his actions related to interfering with parental rights and exacerbating the teacher workforce shortage.",
+      "status": "Failed",
+      "title": "A RESOLUTION urging the Kentucky Board of Education to dismiss Jason E. Glass from the office of Commissioner of Education.",
+      "url": "/bills/2023/KY/HR95"
+    },
     "KY SB102": {
       "description": "Create new sections of KRS Chapter 158 to define terms; make legislative findings and declarations on the rights of parents as it relates to public schools and establish a standard to protect those rights; require public schools to establish a process to receive complaints of violations; create a cause of action for violations and establish limitations; establish specific parental rights as related to public schools; require public schools to adopt policies to protect those rights; require the Kentucky Department of Education to eliminate administrative regulations in violation and develop recommended policies to public schools for compliance; make findings and declarations related to privacy of parents and children and require public schools to adopt policies to safeguard those rights; establish a cause of action for a child encountering a person of the opposite biological sex while in a location where there is a reasonable expectation of bodily privacy; create a cause of action for those who are forced by a public school to share private quarters with specific people of the opposite biological sex and provide exclusions; make findings and declarations relating to controversial subject matter in common schools; establish a parental right of not having a child indoctrinated into any political position or being involved in advocacy in a controversial subject matter; establish limitations on school personnel related to instruction and discussion on sexual orientation, sexual preference, or gender expression; establish limitations on school personnel advocacy in the scope of employment and actions based on the immutable characteristics of students; prohibit compelling school personnel to advocate for or against anything in opposition to sincerely held beliefs and convictions; require public schools to adopt enforcement policies; establish limitations; establish a parental right to expect a child not be exposed to or given access to harmful to minors, pervasively vulgar, or obscene matter or performance or obscene imagery representing minors; require that public schools adopt policies to protect that right by making those materials and performances inaccessible and prohibit matters and performances harmful to minors, drag performances, pervasively vulgar performances, obscene performances, and any performance involving sexual conduct, nudity, or stripping; provide that none of the materials identified shall be deemed to have educational value for minors; establish limitations; amend KRS 158.148 to establish a parental right to expect a child will not be bulled at school and require public schools adopt policies to ensure notification and support of bullying victims, require an order of reporting to staff, require specific time requirements for investigations; provide for an appeal and review of incidents; require identification of actions to prevent future acts of bullying or retaliation; require procedures for supporting victims; establish a short title of the Childhood Protection in Education Act.",
       "status": "Failed",
@@ -821,6 +845,12 @@
       "status": "Passed",
       "title": "AN ACT relating to children.",
       "url": "/bills/2023/KY/SB150"
+    },
+    "KY SR260": {
+      "description": "Urge the Kentucky Board of Education to dismiss Jason E. Glass from the office of Commissioner of Education for his actions related to interfering with parental rights and exacerbating the teacher workforce shortage.",
+      "status": "Failed",
+      "title": "A RESOLUTION urging the Kentucky Board of Education to dismiss Jason E. Glass from the office of Commissioner of Education.",
+      "url": "/bills/2023/KY/SR260"
     }
   },
   "LA": {
@@ -935,6 +965,12 @@
       "status": "Introduced",
       "title": "Student physical privacy establishment",
       "url": "/bills/2023/MN/SF311"
+    },
+    "MN SF3272": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Gender dysphoria treatments for minors prohibition",
+      "url": "/bills/2023/MN/SF3272"
     },
     "MN SF3280": {
       "description": "",
@@ -1358,7 +1394,7 @@
   "MT": {
     "MT HB234": {
       "description": "",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "Revise dissemination of obscene material to minors laws",
       "url": "/bills/2023/MT/HB234"
     },
@@ -1557,12 +1593,6 @@
       "status": "Introduced",
       "title": "The definition of a discriminatory practice and reproductive health education requirements; and to provide a penalty.",
       "url": "/bills/2023/ND/HB1526"
-    },
-    "ND HCR3010": {
-      "description": "",
-      "status": "Passed",
-      "title": "A concurrent resolution urging public schools and public entities, including agencies or departments that collect vital statistics, to protect women's rights by distinguishing between the sexes according to biological sex at birth for the purpose of providing equal opportunities and ensuring the privacy and safety of women and girls.",
-      "url": "/bills/2023/ND/HCR3010"
     },
     "ND SB2199": {
       "description": "A BILL for an Act to amend and reenact section 1-01-34 of the North Dakota Century Code, relating to gender usage in the North Dakota Century Code; and to provide a penalty.",
@@ -1769,6 +1799,12 @@
       "status": "Introduced",
       "title": "Enact the Parents' Bill of Rights",
       "url": "/bills/2023/OH/HB8"
+    },
+    "OH SB83": {
+      "description": "To amend sections 3345.45, 4117.14, and 4117.15 and to enact sections 1713.57, 3333.0419, 3345.029, 3345.0216, 3345.0217, 3345.0219, 3345.382, 3345.451, 3345.452, 3345.453, 3345.591, 3345.80, and 3345.87 of the Revised Code to enact the Ohio Higher Education Enhancement Act regarding the operation of state institutions of higher education.",
+      "status": "Introduced",
+      "title": "Enact Ohio Higher Education Enhancement Act",
+      "url": "/bills/2023/OH/SB83"
     }
   },
   "OK": {
@@ -1906,7 +1942,7 @@
     },
     "OK SB404": {
       "description": "",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "Oklahoma Religious Freedom Act; establishing exclusion from certain funds or benefits for certain reasons as substantial burden. Effective date.",
       "url": "/bills/2023/OK/SB404"
     },
@@ -1919,7 +1955,7 @@
     "OK SB613": {
       "description": "",
       "status": "Engrossed",
-      "title": "Health care; prohibiting gender transition procedures for children; providing for administrative, criminal and civil enforcement. Effective date.",
+      "title": "Health care; prohibiting gender transition procedures for children; authorizing certain civil actions and relief; licensure; adding violations and penalties. Emergency.",
       "url": "/bills/2023/OK/SB613"
     },
     "OK SB614": {
@@ -2014,6 +2050,12 @@
       "title": "Relating to sex-specific athletic activities.",
       "url": "/bills/2023/OR/HB2186"
     },
+    "OR HB2428": {
+      "description": "Removes requirement that menstrual products be provided in student bathrooms designated for males. Removes requirement that menstrual products be provided in student bathrooms designated for males.",
+      "status": "Introduced",
+      "title": "Relating to the provision of menstrual products in public school bathrooms.",
+      "url": "/bills/2023/OR/HB2428"
+    },
     "OR HB2477": {
       "description": "Prohibits district school boards from adopting specified procedures relating to parental notification. Prohibits district school boards from adopting specified procedures relating to parental notification. Prohibits classroom instruction on sexual orientation and gender identity, absent parental consent, before fourth grade. Prohibits school district from providing health care services if parent withholds consent or declines specified health care service. Requires parental consent before administering specified questionnaire or health screening form. Directs State Board of Education to adopt procedure for parents to report concerns regarding school district's implementation of requirements.",
       "status": "Introduced",
@@ -2031,6 +2073,12 @@
       "status": "Introduced",
       "title": "Relating to procedures to alter minor's sex; declaring an emergency.",
       "url": "/bills/2023/OR/HB3137"
+    },
+    "OR SB246": {
+      "description": "Removes requirement that menstrual products be provided in public charter schools and in bathrooms designated for males. Removes requirement that menstrual products be provided in public charter schools and in bathrooms designated for males. Declares emergency, effective on passage.",
+      "status": "Introduced",
+      "title": "Relating to the provision of menstrual products in schools; declaring an emergency.",
+      "url": "/bills/2023/OR/SB246"
     },
     "OR SB452": {
       "description": "Prohibits physicians from performing irreversible gender reassignment surgery on minor. Prohibits physicians from performing irreversible gender reassignment surgery on minor. Creates exceptions.",
@@ -2578,6 +2626,12 @@
       "title": "Relating to a parent's right to information concerning the gender identity of the parent's child.",
       "url": "/bills/2023/TX/HB4961"
     },
+    "TX HB5127": {
+      "description": "",
+      "status": "Introduced",
+      "title": "Relating to public higher education reform; authorizing administrative penalties.",
+      "url": "/bills/2023/TX/HB5127"
+    },
     "TX HB5235": {
       "description": "",
       "status": "Introduced",
@@ -2640,7 +2694,7 @@
     },
     "TX SB1029": {
       "description": "",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Relating to civil liability for, governmental health plan coverage of, and public funding for gender modification procedures and treatments.",
       "url": "/bills/2023/TX/SB1029"
     },
@@ -2765,6 +2819,12 @@
       "status": "Failed",
       "title": "School Materials Amendments",
       "url": "/bills/2023/UT/HB0464"
+    },
+    "UT HB0550": {
+      "description": "",
+      "status": "Failed",
+      "title": "School Curriculum Requirements",
+      "url": "/bills/2023/UT/HB0550"
     },
     "UT SB0016": {
       "description": "",
