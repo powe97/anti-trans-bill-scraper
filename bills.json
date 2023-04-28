@@ -280,7 +280,7 @@
     },
     "FL S0266": {
       "description": "Revising the duties of the Board of Governors relating to the mission of each state university; requiring the Board of Governors Accountability Plan to annually report certain research expenditures of a specified amount; prohibiting specified educational institutions from expending funds for certain purposes; revising how general education core courses are established; specifying a one-time limit on the requirement to change accrediting agencies, etc.",
-      "status": "Introduced",
+      "status": "Engrossed",
       "title": "Higher Education",
       "url": "/bills/2023/FL/S0266"
     },
@@ -303,7 +303,7 @@
       "url": "/bills/2023/FL/S1382"
     },
     "FL S1674": {
-      "description": "Creating the \"Safety in Private Spaces Act\"; providing requirements for exclusive use of restrooms by gender; providing requirements for exclusive use of changing facilities by gender; providing exceptions; prohibiting willfully entering a restroom or changing facility designated for the opposite sex and refusing to immediately depart when asked to do so by another person present there; providing criminal penalties, etc.",
+      "description": "Creating the \"Safety in Private Spaces Act\"; requiring certain entities that maintain water closets or changing facilities to meet specified requirements; authorizing persons to enter a restroom or changing facility designated for the opposite sex only under certain circumstances; providing that specified persons who enter certain restrooms or changing facilities and refuse to depart when asked to do so commit the criminal offense of trespass, etc.",
       "status": "Introduced",
       "title": "Facility Requirements Based on Sex",
       "url": "/bills/2023/FL/S1674"
@@ -672,7 +672,7 @@
   "KS": {
     "KS HB2138": {
       "description": "",
-      "status": "Vetoed",
+      "status": "Passed",
       "title": "Senate Substitute for HB 2138 by Committee on Education - Requiring school districts to provide separate accommodations for students of each biological sex on overnight school district sponsored trips, requiring contracts for exclusive broadcasts of state high school activities association activities to permit certain local broadcasts and providing for administrative review of resolutions to permanently close a school building of a school district.",
       "url": "/bills/2023/KS/HB2138"
     },
@@ -720,7 +720,7 @@
     },
     "KS SB180": {
       "description": "",
-      "status": "Vetoed",
+      "status": "Passed",
       "title": "Establishing the women's bill of rights to provide a meaning of biological sex for purposes of statutory construction.",
       "url": "/bills/2023/KS/SB180"
     },
@@ -1412,7 +1412,7 @@
     },
     "MT HB361": {
       "description": "",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "Provide that use of a name and sex by a student is not discrimination",
       "url": "/bills/2023/MT/HB361"
     },
@@ -1524,7 +1524,7 @@
     },
     "ND HB1205": {
       "description": "AN ACT to create and enact a new section to chapter 12.1-27.1 of the North Dakota Century Code, relating to prohibiting public libraries from maintaining explicit sexual material; to provide for a legislative management report; and to provide for application.",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "Prohibiting public libraries from maintaining explicit sexual material; to provide for a legislative management report; and to provide for application.",
       "url": "/bills/2023/ND/HB1205"
     },
@@ -1542,7 +1542,7 @@
     },
     "ND HB1297": {
       "description": "A BILL for an Act to create and enact a new section to chapter 23-02.1 of the North Dakota Century Code, relating to correction or amendment of birth records.",
-      "status": "Engrossed",
+      "status": "Passed - pending Governor signature",
       "title": "Correction or amendment of birth records.",
       "url": "/bills/2023/ND/HB1297"
     },
@@ -1566,7 +1566,7 @@
     },
     "ND HB1473": {
       "description": "AN ACT to create and enact a new section to chapter 12-44.1, a new section to chapter 12-46, a new section to chapter 12-47, and a new section to chapter 15-10 of the North Dakota Century Code, relating to the use of restrooms, locker rooms, and shower rooms in a dormitory or living facility controlled by the state board of higher education, a correctional facility, the North Dakota youth correctional center, and the penitentiary exclusively for males and females.",
-      "status": "Passed - pending Governor signature",
+      "status": "Passed",
       "title": "The use of restrooms, locker rooms, and shower rooms in a dormitory or living facility controlled by the state board of higher education, a correctional facility, the North Dakota youth correctional center, and the penitentiary exclusively for males and females.",
       "url": "/bills/2023/ND/HB1473"
     },
@@ -1925,7 +1925,7 @@
     "OK SB26": {
       "description": "",
       "status": "Engrossed",
-      "title": "Schools; providing certain exception to designation and use of restroom or changing area. Effective date. Emergency.",
+      "title": "Schools; providing certain exception to designation and use of restroom or changing area; exception for athletic activities; remedies for compliance. Effective date. Emergency.",
       "url": "/bills/2023/OK/SB26"
     },
     "OK SB30": {
@@ -2145,6 +2145,18 @@
       "status": "Introduced",
       "title": "Parental Bill of Rights",
       "url": "/bills/2023/SC/H3197"
+    },
+    "SC H3304": {
+      "description": "Amend The South Carolina Code Of Laws By Enacting The \"south Carolina Transparency And Integrity In Education Act\"; By Adding Article 5 To Chapter 29, Title 59 So As To Express Related Intentions Of The General Assembly, To Provide Necessary Definitions, To Prohibit Certain Concepts From Being Included In Public School Instruction And Professional Development, To Provide Means For Addressing Violations, And To Provide Procedures For Public Review Of Public School Curriculum And Instructional Materials; And By Amending Section 59-28-180, Relating To Parental Expectations In The Parental Involvement In Their Children's Education Act, So As To Provide Parents Are Expected To Be The Primary Source Of The Education Of Their Children Regarding Morals, Ethics, And Civic Responsibility, And To Provide A Parental Pledge Of Expectations Must Be Provided To Parents As Part Of The Registration And Enrollment Process.",
+      "status": "Introduced",
+      "title": "Transparency and Integrity in Education Act",
+      "url": "/bills/2023/SC/H3304"
+    },
+    "SC H3466": {
+      "description": "Amend The South Carolina Code Of Laws By Adding Article 5 To Chapter 29, Title 59 So As To Define Necessary Terms, To Provide Public School Websites Must Include Certain Information And Means Of Providing Related Feedback Concerning Instructional Materials And Curricula In Use, To Provide Related Reporting Requirements Of The State Department Of Education And School Districts, To Provide For The Withholding Of Funding For Noncompliance With Certain Provisions Of This Act, And To Provide Requirements For Public Schools That Seek Or Receive Federal Grants Related To History Or Social Studies Education.",
+      "status": "Introduced",
+      "title": "Academic Integrity Act",
+      "url": "/bills/2023/SC/H3466"
     },
     "SC H3485": {
       "description": "Amend The South Carolina Code Of Laws By Enacting The \"families' Rights And Responsibilities Act\" By Adding Chapter 23 To Title 63 So As To Recognize That Parents Have The Ultimate Responsibility To Direct The Upbringing, Education, Health Care, And Mental Health Of Their Children; To Set Forth Certain Rights And Responsibilities; To Require Local School Boards Of Trustees To Take Certain Actions To Promote Parental Involvement; To Require Medical Providers To Obtain Parental Consent Before Providing Health Care Services To A Child Of The Parent, With Exceptions; To Create A Cause Of Action For Violation Of The Chapter; And For Other Purposes; And To Amend Section 59-28-160, Relating To Local School Boards Of Trustees, So As To Make Conforming Changes.",
@@ -2740,6 +2752,12 @@
       "title": "Relating to prohibiting the conservatorship of a child by a parent who removes the child from this state for certain purposes relating to gender reassignment.",
       "url": "/bills/2023/TX/SB1690"
     },
+    "TX SB17": {
+      "description": "",
+      "status": "Engrossed",
+      "title": "Relating to the powers and duties of the governing boards of public institutions of higher education.",
+      "url": "/bills/2023/TX/SB17"
+    },
     "TX SB2281": {
       "description": "",
       "status": "Introduced",
@@ -2950,7 +2968,7 @@
   "WI": {
     "WI SB4": {
       "description": "An Act to amend 457.03 (2) of the statutes; Relating to: rules defining unprofessional conduct by marriage and family therapists, professional counselors, and social workers and suspension of a portion of a rule of the Marriage and Family Therapy, Professional Counseling, and Social Work Examining Board.",
-      "status": "Failed",
+      "status": "Introduced",
       "title": "Rules defining unprofessional conduct by marriage and family therapists, professional counselors, and social workers and suspension of a portion of a rule of the Marriage and Family Therapy, Professional Counseling, and Social Work Examining Board.",
       "url": "/bills/2023/WI/SB4"
     }
